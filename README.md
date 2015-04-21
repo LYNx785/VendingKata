@@ -1,5 +1,5 @@
 # VendingKata
-command line vending machine... phew...
+command line vending machine... phew... see: http://code.joejag.com/coding-dojo/vending-machine/
 
 RUNNING IT:
 You should be able to run this project via IntelliJ IDE or by running the projects MAIN in an any terminal.
