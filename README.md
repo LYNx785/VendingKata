@@ -7,8 +7,8 @@ You should be able to run this project via IntelliJ IDE or by running the projec
 USING IT:
 when launched you'll be asked for a password.  
 pro-tip: its "admin"... and it lets you access a few extra commands to edit core data.
-Note: These are session only changes, so its not like you can end to program and come abck to see them!!
-If you do not wish to be a superuser, you can just hit enter to continue, and follow the prompts to interact.
+Note: These are session only changes, if you end the program and come back your changes are gone!
+If you do not wish to be a superuser you can hit enter to continue and follow the prompts.
 
 THOUGHTS:
 This could stand to have the bank dealing portions refactored OUT of the main vending machine "controller".
