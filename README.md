@@ -2,18 +2,11 @@
 command line vending machine... phew... see: http://code.joejag.com/coding-dojo/vending-machine/
 
 RUNNING IT:
-You should be able to run this project via IntelliJ IDE or by running the projects MAIN in an any terminal.
+Run this kata's MAIN file in an any terminal session.
 
 USING IT:
-when launched you'll be asked for a password.  
-pro-tip: its "admin"... and it lets you access a few extra commands to edit core data.
-Note: These are session only changes, if you end the program and come back your changes are gone!
-If you do not wish to be a superuser you can hit enter to continue and follow the prompts.
+when launched you'll be asked for a password, it's "admin"! It grants you access to extra commands that edit the core data.
+If you do not wish to be an admin, hit enter to continue and follow the prompts.
 
 THOUGHTS:
-This could stand to have the bank dealing portions refactored OUT of the main vending machine "controller".
-This would probbaly pretty it up slightly, and maybe make it barely easilr to maintain.  
-Another improvement is moving the data for the products and bank into a properties file or something similar.
-
-PS:
-For a Kata this thing was crazy, but it really made me think.  One day I will revisit this, but probably in ruby :P
+This could stand to have the bank portions refactored out of the main vending machine "controller", and see the product and bank data move into a properties file or something similar.
